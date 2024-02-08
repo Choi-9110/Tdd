@@ -8,6 +8,17 @@
 $ yarn install
 ```
 
+## 테스트 하는방법
+
+```bash
+#기본 실행 방법
+$ yarn run test
+
+#spec.ts 파일을 찾아서 테스트를 돌리게 될것이다.
+
+
+```
+
 ## Test
 
 TDD를 위한 프로젝트입니다.
