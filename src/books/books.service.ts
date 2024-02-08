@@ -23,4 +23,7 @@ export class BooksService {
   remove(id: number) {
     return `This action removes a #${id} book`;
   }
+  getBook(id: number) {
+    return true;
+  }
 }
